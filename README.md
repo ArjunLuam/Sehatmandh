@@ -2,7 +2,7 @@
 ## Ye arjun ya reetvik aalsi bnaenge.
 
 
-# Contributer
+# Contributors
 > Arjun Anand <br/>
 > Harit Yadav <br/>
 > Reetvik Chaterjee <br/>
