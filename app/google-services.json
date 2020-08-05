@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996994080435",
+    "firebase_url": "https://maskdetector-547a8.firebaseio.com",
+    "project_id": "maskdetector-547a8",
+    "storage_bucket": "maskdetector-547a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996994080435:android:6d826cd755fcf5dfa61ac6",
+        "android_client_info": {
+          "package_name": "com.example.mask_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996994080435-18pdpepa16c6o7ed7o5e1tohb6ln2c58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mask_detector",
+            "certificate_hash": "92e5505236d0299edcc792401b11f053a694a11a"
+          }
+        },
+        {
+          "client_id": "996994080435-75golgteffrst2egscka6ed6nj6cdjnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEsPMssglzDWBIRcKfxnNj95aqiknkN8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996994080435-75golgteffrst2egscka6ed6nj6cdjnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
