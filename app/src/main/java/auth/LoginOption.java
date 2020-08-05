@@ -30,8 +30,8 @@ public class LoginOption extends Fragment {
         user.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                phoneNumberFragment phoneNumberFragment = new phoneNumberFragment();
-                getActivity().getSupportFragmentManager().beginTransaction().replace(R.id.container, phoneNumberFragment).addToBackStack(null).commit();
+                com.example.mask_detector.auth.phoneNumberFragment phoneNumberFragmen = new com.example.mask_detector.auth.phoneNumberFragment();
+                getActivity().getSupportFragmentManager().beginTransaction().replace(R.id.container, phoneNumberFragmen).addToBackStack(null).commit();
             }
         });
 

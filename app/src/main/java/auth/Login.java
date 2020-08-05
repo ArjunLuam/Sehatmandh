@@ -12,7 +12,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        getSupportFragmentManager().beginTransaction().replace(R.id.container, new LoginOption()).commit();
+        getSupportFragmentManager().beginTransaction().replace(R.id.container, new com.example.mask_detector.auth.LoginOption()).commit();
     }
 
     @Override

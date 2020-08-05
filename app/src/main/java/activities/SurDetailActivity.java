@@ -1,5 +1,6 @@
 package com.example.mask_detector.activities;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -64,6 +65,7 @@ public class SurDetailActivity extends AppCompatActivity {
         setConnection();
         setStatus();
         dbRef.child("Cameras").child(camValue).addValueEventListener(new ValueEventListener() {
+            @SuppressLint("SetTextI18n")
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 cameraFrames.clear();
@@ -88,6 +90,7 @@ public class SurDetailActivity extends AppCompatActivity {
         });
     }
 
+    @SuppressLint("SetTextI18n")
     private void setConnection() {
         Random random = new Random();
         int rand = random.nextInt(4);
@@ -113,6 +116,7 @@ public class SurDetailActivity extends AppCompatActivity {
         }
     }
 
+    @SuppressLint("SetTextI18n")
     private void setStatus() {
         Random random = new Random();
         int rand = random.nextInt(4);
@@ -127,5 +131,4 @@ public class SurDetailActivity extends AppCompatActivity {
                 break;
         }
     }
-
 }
