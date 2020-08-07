@@ -74,5 +74,5 @@ Our approach is to design a model using Transfer learning and opencv to detect m
 # Contributors
 > Arjun Anand <br/>
 > Harit Yadav <br/>
-> Reetvik Chaterjee <br/>
+> Reetvik Chatterjee <br/>
 > Shivam Kumar
