@@ -11,7 +11,13 @@ It is very useful app in times of covid as this disease is spread through human 
 - Paying medical bills online
 
 ## App Snaps:-
-To be added soon.
+<p align="center">
+  <img src="https://github.com/ArjunLuam/Sehatmandh/blob/master/Images/signup.jpg" width=270 height=350 />
+  <img src="https://github.com/ArjunLuam/Sehatmandh/blob/master/Images/Screenshot_20200808-111416_Sehatmandh.jpg" width=270 height=350 />
+  <img src="https://github.com/ArjunLuam/Sehatmandh/blob/master/Images/Screenshot_20200808-111318_Sehatmandh.jpg" width=270 height=350 />
+
+</p>
+<br/>
 
 Happy Coding!!!
 
